@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\thoma\source\repos\crossedwires\crossedwires\source.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\crossedwires\crossedwires\source.cpp(62): warning C4018: '>': signed/unsigned mismatch
+c:\users\thoma\source\repos\crossedwires\crossedwires\source.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\crossedwires\crossedwires\source.cpp(74): warning C4018: '>': signed/unsigned mismatch
+c:\users\thoma\source\repos\crossedwires\crossedwires\source.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\crossedwires\crossedwires\source.cpp(102): warning C4018: '>': signed/unsigned mismatch
+c:\users\thoma\source\repos\crossedwires\crossedwires\source.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\crossedwires\crossedwires\source.cpp(114): warning C4018: '>': signed/unsigned mismatch
+  CrossedWires.vcxproj -> C:\Users\thoma\source\repos\CrossedWires\Debug\CrossedWires.exe

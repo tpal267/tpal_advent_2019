@@ -1,0 +1,4 @@
+﻿  echk.c
+c:\users\thoma\source\repos\emailchecking\echk.c(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\emailchecking\echk.c(25): warning C4018: '<': signed/unsigned mismatch
+  EmailChecking.vcxproj -> C:\Users\thoma\source\repos\EmailChecking\Debug\EmailChecking.exe
